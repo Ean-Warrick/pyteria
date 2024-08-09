@@ -277,7 +277,7 @@ def jump(player, asset_list):
         player_table[player]["in_air"] = True
         player_table[player]["can_double_jump"] = False
         player.change_y = JUMP_POWER
-        double_jump_mark = DoubleJumpMark("double_jump_mark.png", 1, player)
+        double_jump_mark = DoubleJumpMark("blocks/double_jump_mark.png", 1, player)
         asset_list.append(double_jump_mark)
 
 

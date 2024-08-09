@@ -1,1 +1,0 @@
-{"level_2": true, "level_3": true, "total_points": 3600, "level_points": {"level_1": 2000, "level_2": 1600, "level_3": 0}}
